@@ -1,0 +1,3 @@
+node_modules/
+
+# i created the .gitignore file using the touch command  , touch .gitignore
